@@ -1,0 +1,145 @@
+	 //System.out.println("hello wolrd java");
+         //System.out.println("Thilina kavinda ,COLE012216");
+         //System.out.println("  *");
+         //System.out.println(" * *");
+         //System.out.println("* * *");
+         //System.out.println(" * *");
+         //System.out.println("  *");
+         
+         
+         
+         
+         
+         
+         //int u =2;
+         //int a = 3;
+         //int t = 5;
+         //int v= u+a*t;
+         //System.out.println(v);
+         
+         //int x=2;
+         //int y=3;
+         
+         //double k =(((x*x)+y)/3)*((y-x)/4);
+         
+         //System.out.println(k);
+         
+         
+         //int a =x+y+x;
+         //a=a+x+y+3;
+         //a=a+a+3;
+         //System.out.println(a);
+         
+         //x=x+y;
+         //System.out.println(x);
+         //System.out.println(a);
+         //a=a+5;
+         //System.out.println(a);
+         //System.out.println(y);
+         
+       
+          //Scanner input= new Scanner(System.in);
+    
+          //System.out.println("geting input valuve for integer variable");
+          //int x =input.nextInt();
+          
+          //System.out.println("geting input valuve for String variable");
+          //String a =input.next();
+          //String b=input.nextLine();
+          
+          //System.out.println("geting input valuve for double variable");
+          //double d=input.nextDouble();
+          
+          //System.out.println("geting input valuve for boolean variable");
+          //boolean e=input.nextBoolean();
+          
+          
+          //System.out.println("integer valuve is "+x);
+          //System.out.println("String valuve is "+a);
+          //System.out.println("String valuve is "+b);
+          //System.out.println("integer valuve is "+d);
+          //System.out.println("integer valuve is "+e);
+     
+          //Scanner input= new Scanner(System.in);
+    
+          //System.out.println("Enter your name");
+          //String name =input.next();
+          
+          //System.out.println("Enter your age");
+          //int age =input.nextInt();
+          
+          //System.out.println("Enter your height");
+          //double height =input.nextDouble();
+          
+         
+         //System.out.println("your name is "+name+" and your age " +age+ " years old and your height is "+height);
+         
+         //int x=1;
+         
+         //if (x==1){
+           //  System.out.println("x valuve is 1 ");
+         //}
+         //else{
+             //System.out.println("x is not 1 ");
+    
+             /*Scanner input= new Scanner(System.in);
+             
+             System.out.println("enter the first number ");
+             int fnum=input.nextInt();
+             
+             System.out.println("enter the secound number ");
+             int snum=input.nextInt();
+             
+             System.out.println("enter the third number ");
+             int tnum=input.nextInt();
+             
+             if (fnum>snum){
+                 //System.out.println("lagest number is "+fnum);
+             }
+             else{
+                 //System.out.println("lagest number is "+snum);
+             }
+             
+             int m= fnum%2;
+             
+             if (m==1){
+                 //System.out.println("the number is ODD");
+             }
+             else{
+                 //System.out.println("number is even");*/
+             //}
+             
+             //if (fnum>snum){
+                 //System.out.println("lagset number is "+fnum);
+             ///}
+             //else if(snum>tnum){
+               //  System.out.println("lagerst number is "+tnum);
+             //}
+             //else{
+                 //System.out.println("largest numer is "+snum);
+             
+             //}
+             
+            //Scanner input= new Scanner(System.in);
+            /*System.out.println("Enter coustomer number ");
+            int x =input.nextInt();
+        
+            System.out.println("Enter coustomer telephone number  ");
+            int y =input.nextInt();
+        
+        
+            System.out.println("coustomer number is "+x);
+            System.out.println("coustomer  tlephone number is "+y);*/
+            
+            
+            
+            
+            //System.out.println("Enter Student index number ");
+            //int a =input.nextInt();
+        
+            //System.out.println("Enter Student mark  ");
+            //float b =input.nextFloat();
+            
+            
+            //System.out.println("Student index number "+a);
+            //System.out.println("Student mark "+b);
